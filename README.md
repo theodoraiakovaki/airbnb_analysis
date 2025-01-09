@@ -11,7 +11,7 @@ This repository contains a Jupyter notebook that analyzes Airbnb data in Europe.
 
 ## Tools and Libraries Used
 
-- Python 3.x
+- Python
 - Jupyter Notebook
 - Pandas
 - Matplotlib
